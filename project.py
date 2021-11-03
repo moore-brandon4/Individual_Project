@@ -5,7 +5,7 @@ app = Flask(__name__)             # create an app instance
 
 @app.route("/")                
 def gridbyexample():                    
-    return render_template("gridbyexample.html") 
+    return render_template("gridbyexamplerecreate.html") 
 
 @app.route("/zachholman")                
 def zachholman():                    

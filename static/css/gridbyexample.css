@@ -2,32 +2,6 @@
 
 
 
-
-
-
-/* HTML5 display definitions
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b,
-strong {
-  font-weight: bold; }
-
 dfn {
   font-style: italic; }
 
@@ -146,45 +120,6 @@ h2 {
   margin-bottom: 13px;
   margin-bottom: 0.8125rem; }
 
-h3 {
-  font-size: 22px;
-  font-size: 1.375rem;
-  line-height: 26px;
-  line-height: 1.625rem;
-  margin-top: 52px;
-  margin-top: 3.25rem;
-  margin-bottom: 13px;
-  margin-bottom: 0.8125rem; }
-
-h4 {
-  font-size: 19.2px;
-  font-size: 1.2rem;
-  line-height: 26px;
-  line-height: 1.625rem;
-  margin-top: 39px;
-  margin-top: 2.4375rem;
-  margin-bottom: 13px;
-  margin-bottom: 0.8125rem; }
-
-h5 {
-  font-size: 16px;
-  font-size: 1rem;
-  line-height: 26px;
-  line-height: 1.625rem;
-  margin-top: 65px;
-  margin-top: 4.0625rem;
-  margin-bottom: 13px;
-  margin-bottom: 0.8125rem; }
-
-h6 {
-  font-size: 16px;
-  font-size: 1rem;
-  line-height: 26px;
-  line-height: 1.625rem;
-  margin-top: 65px;
-  margin-top: 4.0625rem;
-  margin-bottom: 13px;
-  margin-bottom: 0.8125rem; }
 
 h1 + h2 {
   margin-top: 26px;
@@ -196,27 +131,10 @@ h4 + h5 {
   margin-top: 13px;
   margin-top: 0.8125rem; }
 
-h5 + h6 {
-  margin-top: -13px;
-  margin-top: -0.8125rem; }
 
-h6 {
-  font-style: italic;
-  font-weight: normal; }
 
-/* Links
-   ========================================================================== */
-a {
-  color: #222;
-  transition: all .3s; }
-  a:hover {
-    color: #222; }
-  a:visited {
-    color: #666; }
-    a:visited:hover {
-      color: #222; }
-  a:active {
-    color: #280680; }
+
+
 
 /* Figures & other elements
    ========================================================================== */
